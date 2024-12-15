@@ -1524,3 +1524,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'reevesfurniture:rf_spruce_she
 [15Dec2024 23:36:56.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=94, z=55} BlockPos{x=200, y=93, z=55}
 [15Dec2024 23:40:05.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
 [15Dec2024 23:40:05.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[15Dec2024 23:45:05.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[15Dec2024 23:45:05.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
+[15Dec2024 23:50:05.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo_Mundo
+[15Dec2024 23:50:05.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo_Mundo
