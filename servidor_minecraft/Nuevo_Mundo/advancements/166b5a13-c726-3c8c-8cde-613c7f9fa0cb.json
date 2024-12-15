@@ -3325,5 +3325,11 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_hedge": {
+    "criteria": {
+      "has_leaves": "2024-12-15 23:35:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3337
 }
